@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TECP8tQ1vOzdbn8w42xmdhQt7WFQBy6lEIbsOVqqzIhkYq6tI8QEdMXS3mdtNULz1Z0d89qRApXDuFBp3BDKCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\somad\\source\\repos\\WebTask.API Solution\\WebTask.API\\WebTask.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\somad\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\somad\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\somad\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\somad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\somad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\somad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
